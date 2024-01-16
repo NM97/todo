@@ -1,0 +1,10 @@
+name: Todo
+form: $/natanielmarmucki/todo/models/todo/fields.yaml
+modelClass: NatanielMarmucki\Todo\Models\ToDo
+defaultRedirect: natanielmarmucki/todo/todo
+create:
+    redirect: 'natanielmarmucki/todo/todo/update/:id'
+    redirectClose: natanielmarmucki/todo/todo
+update:
+    redirect: natanielmarmucki/todo/todo
+    redirectClose: natanielmarmucki/todo/todo

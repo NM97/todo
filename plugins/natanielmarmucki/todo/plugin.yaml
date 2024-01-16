@@ -1,0 +1,11 @@
+plugin:
+    name: 'natanielmarmucki.todo::lang.plugin.name'
+    description: 'natanielmarmucki.todo::lang.plugin.description'
+    author: 'Nataniel Marmucki'
+    icon: oc-icon-list-ol
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: ToDos
+        url: natanielmarmucki/todo/todo
+        icon: icon-list-alt

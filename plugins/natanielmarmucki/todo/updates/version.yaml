@@ -1,0 +1,8 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table natanielmarmucki_todo_'
+    - builder_table_create_natanielmarmucki_todo_.php
+1.0.3:
+    - 'Updated table natanielmarmucki_todo_'
+    - builder_table_update_natanielmarmucki_todo_.php
